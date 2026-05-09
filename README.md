@@ -1,44 +1,47 @@
 <div align="center">
-  <img src="https://images2.imgbox.com/1b/55/6zkPhj7a_o.png" width="120" style="border-radius: 50%; border: 3px solid #58a6ff;" />
-  <h1>⚡ Exploring The Future</h1>
-  <p><b>Bridging the gap between Mobile hardware and Desktop power.</b></p>
+  <img src="https://images2.imgbox.com/1b/55/6zkPhj7a_o.png" width="130" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(88, 166, 255, 0.5);" />
+
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=⚡+EXPLORING+THE+FUTURE;🚀+Mobile+Desktop+Architect;🐧+Linux+on+Android+Evangelist;🤖+AI+Local+Deployment+Specialist" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <p align="center">
+    <b>Bridging the gap between Mobile hardware and Desktop power.</b>
+  </p>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,linux,ubuntu,arch,bash,docker,github,vscode,kali,powershell,nextjs,supabase&theme=dark" />
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,rust,linux,ubuntu,arch,bash,docker,github,vscode,kali,powershell,nextjs,supabase" />
-</p>
-
-### 🚀 Core Specializations
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local_AI_Deployment-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Automation_Architect-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### 🌌 The Core Engine (Specializations)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux%20Kernel%20Optimization-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Offensive%20Security-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Local%20AI%20Infrastructure-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Automation%20Systems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Engineering Metrics
+### ⚡ Technical Pulse (Activity Graph)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ETF-Devb&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETF-Devb&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ETF-Devb&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Contribution Activity
+### 🐍 The Code Serpent (Contribution Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
-<p align="left">
-<a href="https://youtube.com/@ExploringTheFuture" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> ⚡
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+  <br />
+  <i>"Mastering the invisible forces of computing."</i> ⚡
+</div>
