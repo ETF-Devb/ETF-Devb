@@ -12,7 +12,6 @@
 
 ---
 
-<h3 align="center" style="color: #8A2BE2;">⚡ CORE SPECIALIZATIONS</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Kernel-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bare_Metal-4B0082?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -21,16 +20,14 @@
   <img src="https://img.shields.io/badge/Cloud_Desktop-8B008B?style=for-the-badge&logo=nextjs&logoColor=white" />
 </p>
 
----
+<br>
 
-<h3 align="center" style="color: #8A2BE2;">⚙️ TECH ARSENAL</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,rust,go,bash,powershell,linux,ubuntu,arch,kali,docker,nextjs,supabase,github,vscode&theme=dark&perline=7" />
 </p>
 
 ---
 
-<h3 align="center" style="color: #8A2BE2;">📊 SYSTEM PULSE</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ETF-Devb&theme=dracula&area=true&hide_border=true&bg_color=000000&color=8A2BE2&line=8A2BE2&point=FFFFFF" width="100%" />
 </p>
