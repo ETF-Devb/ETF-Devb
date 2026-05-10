@@ -1,4 +1,22 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=kaka&color=8A2BE2&height=200&section=header&text=MOBILE%20DESKTOP%20PRO&fontSize=70&fontAlignY=35&animation=twinkling&desc=UBUNTU%20ON%20ANDROID&descAlignY=60&descSize=20" width="100%" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> Achievements
+<p align="left">
+  <img src="https://img.icons8.com/plasticine/100/python.png" width="45" title="Python Master x4" />
+  <img src="https://img.icons8.com/plasticine/100/linux.png" width="45" title="Linux Specialist x2" />
+  <img src="https://img.icons8.com/plasticine/100/code-fork.png" width="45" title="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/--8A2BE2?style=social&logo=github" width="0" /> <img src="https://img.icons8.com/plasticine/100/youtube-play.png" width="45" title="Content Creator x1" />
+  <img src="https://img.icons8.com/plasticine/100/security-checked.png" width="45" title="Cyber Sentinel" />
+  <img src="https://img.icons8.com/plasticine/100/law.png" width="45" title="Legal Tech Architect" />
+</p>
+
+---
+
+### [ >_ CORE_RESOURCES ]
+...
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=header&text=EXPLORING%20THE%20FUTURE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 </p>
 
