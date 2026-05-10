@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=header&text=EXPLORING%20THE%20FUTURE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 </p>
